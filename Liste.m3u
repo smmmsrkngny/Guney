@@ -40,18 +40,10 @@ https://live.artidijitalmedya.com/artidijital_dehatv/dehatv/playlist.m3u8
 https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
 #EXTINF:-1 tvg-id="DİMTV" tvg-name="DİM TV" tvg-country="tr" tvg-language="tr" group-title="Türkiye",DİM TV
 https://live.artidijitalmedya.com/artidijital_dimtv/dimtv/playlist.m3u8
-#EXTINF:-1 tvg-id="DiyarTV" tvg-name="Diyar TV" tvg-country="tr" tvg-language="tr" group-title="Türkiye",Diyar TV
-https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/playlist.m3u8
-#EXTINF:-1 tvg-id="DostTV" tvg-name="Dost TV" tvg-country="tr" tvg-language="tr" group-title="Türkiye",Dost TV
-https://dost.stream.emsal.im/tv/live.m3u8
-#EXTINF:-1 tvg-id="ErTV" tvg-name="Er TV" tvg-country="tr" tvg-language="tr" group-title="Türkiye",Er TV
-https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/playlist.m3u8
 #EXTINF:-1 tvg-id="ESTV" tvg-name="ES TV" tvg-country="tr" tvg-language="tr" group-title="Türkiye",ES TV
 https://live.artidijitalmedya.com/artidijital_estv/estv/playlist.m3u8
 #EXTINF:-1 tvg-id="FortunaTV" tvg-name="Fortuna TV" tvg-country="tr" tvg-language="tr" group-title="Türkiye",Fortuna TV
 https://edge1.socialsmart.tv/ftvturk/bant1/playlist.m3u8
-#EXTINF:-1 tvg-id="GoncaTV" tvg-name="Gonca TV" tvg-country="tr" tvg-language="tr" group-title="Türkiye",Gonca TV
-https://edge1.socialsmart.tv/goncatv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="GrandCinema" tvg-name="Grand Cinema" tvg-country="tr" tvg-language="tr" group-title="Türkiye",Grand Cinema
 https://gcinemahls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="GRT" tvg-name="GRT" tvg-country="tr" tvg-language="tr" group-title="Türkiye",GRT
@@ -62,10 +54,6 @@ https://edge1.socialsmart.tv/gtv/bant1/playlist.m3u8
 https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
 #EXTINF:-1 tvg-id="HaberGlobal" tvg-name="Haber Global" tvg-country="tr" tvg-language="tr" group-title="Türkiye",Haber Global
 https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
-#EXTINF:-1 tvg-id="Haber61TV(1)" tvg-name="Haber61 TV (1)" tvg-country="tr" tvg-language="tr" group-title="Türkiye",Haber61 TV (1)
-https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/index.m3u8
-#EXTINF:-1 tvg-id="Haber61TV(2)" tvg-name="Haber61 TV (2)" tvg-country="tr" tvg-language="tr" group-title="Türkiye",Haber61 TV (2)
-https://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="HabertürkTV(1)" tvg-name="Habertürk TV (1)" tvg-country="tr" tvg-language="tr" group-title="Türkiye",Habertürk TV (1)
 https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
 #EXTINF:-1 tvg-id="HabertürkTV(2)" tvg-name="Habertürk TV (2)" tvg-country="tr" tvg-language="tr" group-title="Türkiye",Habertürk TV (2)
@@ -114,16 +102,12 @@ https://edge1.socialsmart.tv/kanalurfa/bant1/playlist.m3u8
 https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/playlist.m3u8
 #EXTINF:-1 tvg-id="KanalZ" tvg-name="Kanal Z" tvg-country="tr" tvg-language="tr" group-title="Türkiye",Kanal Z
 https://live.artidijitalmedya.com/artidijital_kanalz/kanalz/playlist.m3u8
-#EXTINF:-1 tvg-id="KardelenTV" tvg-name="Kardelen TV" tvg-country="tr" tvg-language="tr" group-title="Türkiye",Kardelen TV
-https://edge1.socialsmart.tv/kardelentv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="KayTV(1)" tvg-name="Kay TV (1)" tvg-country="tr" tvg-language="tr" group-title="Türkiye",Kay TV (1)
 https://live.artidijitalmedya.com/artidijital_kaytv/kaytv1/playlist.m3u8
 #EXTINF:-1 tvg-id="KayTV(2)" tvg-name="Kay TV (2)" tvg-country="tr" tvg-language="tr" group-title="Türkiye",Kay TV (2)
 https://live.artidijitalmedya.com/artidijital_kaytv/kaytv/playlist.m3u8
 #EXTINF:-1 tvg-id="KentTürkTV" tvg-name="Kent Türk TV" tvg-country="tr" tvg-language="tr" group-title="Türkiye",Kent Türk TV
 https://live.artidijitalmedya.com/artidijital_kentturktv/kentturktv/playlist.m3u8
-#EXTINF:-1 tvg-id="KonyaOlayTV" tvg-name="Konya Olay TV" tvg-country="tr" tvg-language="tr" group-title="Türkiye",Konya Olay TV
-https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/playlist.m3u8
 #EXTINF:-1 tvg-id="KRALPopTV" tvg-name="KRAL Pop TV" tvg-country="tr" tvg-language="tr" group-title="Türkiye",KRAL Pop TV
 https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
 #EXTINF:-1 tvg-id="LifeTV" tvg-name="Life TV" tvg-country="tr" tvg-language="tr" group-title="Türkiye",Life TV
@@ -132,8 +116,6 @@ https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
 https://edge1.socialsmart.tv/linetv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="MaviKaradeniz" tvg-name="MaviKaradeniz" tvg-country="tr" tvg-language="tr" group-title="Türkiye",MaviKaradeniz
 https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8
-#EXTINF:-1 tvg-id="MekameleenTV" tvg-name="Mekameleen TV" tvg-country="tr" tvg-language="tr" group-title="Türkiye",Mekameleen TV
-https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MeltemTV" tvg-name="Meltem TV" tvg-country="tr" tvg-language="tr" group-title="Türkiye",Meltem TV
 https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
 #EXTINF:-1 tvg-id="MercanTV" tvg-name="Mercan TV" tvg-country="tr" tvg-language="tr" group-title="Türkiye",Mercan TV
@@ -150,8 +132,6 @@ https://trkvz-live.daioncdn.net/minikago/minikago.m3u8
 https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="NaturalTV" tvg-name="Natural TV" tvg-country="tr" tvg-language="tr" group-title="Türkiye",Natural TV
 https://edge1.socialsmart.tv/naturaltv/bant1/playlist.m3u8
-#EXTINF:-1 tvg-id="NoraTV" tvg-name="Nora TV" tvg-country="tr" tvg-language="tr" group-title="Türkiye",Nora TV
-https://live.artidijitalmedya.com/artidijital_noratv/noratv/playlist.m3u8
 #EXTINF:-1 tvg-id="Number1Ask" tvg-name="Number 1 Ask" tvg-country="tr" tvg-language="tr" group-title="Türkiye",Number 1 Ask
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
 #EXTINF:-1 tvg-id="Number1Damar" tvg-name="Number 1 Damar" tvg-country="tr" tvg-language="tr" group-title="Türkiye",Number 1 Damar
@@ -160,14 +140,10 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
 #EXTINF:-1 tvg-id="Number1TV" tvg-name="Number 1 TV" tvg-country="tr" tvg-language="tr" group-title="Türkiye",Number 1 TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="OlayTürkTVKayseri" tvg-name="Olay Türk TV Kayseri" tvg-country="tr" tvg-language="tr" group-title="Türkiye",Olay Türk TV Kayseri
-https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/playlist.m3u8
 #EXTINF:-1 tvg-id="On6" tvg-name="On 6" tvg-country="tr" tvg-language="tr" group-title="Türkiye",On 6
 https://live.artidijitalmedya.com/artidijital_kanal16/kanal16/playlist.m3u8
 #EXTINF:-1 tvg-id="On4TV" tvg-name="On4 TV" tvg-country="tr" tvg-language="tr" group-title="Türkiye",On4 TV
 https://edge1.socialsmart.tv/on4/bant1/playlist.m3u8
-#EXTINF:-1 tvg-id="ÖncüTV" tvg-name="Öncü TV" tvg-country="tr" tvg-language="tr" group-title="Türkiye",Öncü TV
-https://edge1.socialsmart.tv/oncurtv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="PowerDance" tvg-name="Power Dance" tvg-country="tr" tvg-language="tr" group-title="Türkiye",Power Dance
 https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PowerLove" tvg-name="Power Love" tvg-country="tr" tvg-language="tr" group-title="Türkiye",Power Love
@@ -190,18 +166,12 @@ https://live.artidijitalmedya.com/artidijital_powertv/powertv/playlist.m3u8
 https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/6415845530001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-id="SSport2" tvg-name="S Sport 2" tvg-country="tr" tvg-language="tr" group-title="Türkiye",S Sport 2
 https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8
-#EXTINF:-1 tvg-id="SemerkandTV" tvg-name="Semerkand TV" tvg-country="tr" tvg-language="tr" group-title="Türkiye",Semerkand TV
-https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ShowTV" tvg-name="Show TV" tvg-country="tr" tvg-language="tr" group-title="Türkiye",Show TV
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:-1 tvg-id="StarTV" tvg-name="Star TV" tvg-country="tr" tvg-language="tr" group-title="Türkiye",Star TV
 https://dogus-live.daioncdn.net/startv/startv.m3u8
 #EXTINF:-1 tvg-id="SunRTV" tvg-name="Sun RTV" tvg-country="tr" tvg-language="tr" group-title="Türkiye",Sun RTV
 https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/playlist.m3u8
-#EXTINF:-1 tvg-id="SyriaTV(1)" tvg-name="Syria TV (1)" tvg-country="tr" tvg-language="tr" group-title="Türkiye",Syria TV (1)
-https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="SyriaTV(3)" tvg-name="Syria TV (3)" tvg-country="tr" tvg-language="tr" group-title="Türkiye",Syria TV (3)
-https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="TarimTV" tvg-name="Tarim TV" tvg-country="tr" tvg-language="tr" group-title="Türkiye",Tarim TV
 https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/master.m3u8
 #EXTINF:-1 tvg-id="TAYTV" tvg-name="TAY TV" tvg-country="tr" tvg-language="tr" group-title="Türkiye",TAY TV
@@ -268,20 +238,12 @@ https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
 #EXTINF:-1 tvg-id="TYTTurk" tvg-name="TYT Turk" tvg-country="tr" tvg-language="tr" group-title="Türkiye",TYT Turk
 https://cdn-tytturk.yayin.com.tr/tytturk/index.m3u8
-#EXTINF:-1 tvg-id="UrfaNatikTV" tvg-name="Urfa Natik TV" tvg-country="tr" tvg-language="tr" group-title="Türkiye",Urfa Natik TV
-https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m3u8
-#EXTINF:-1 tvg-id="ÜÜTV1" tvg-name="ÜÜ TV 1" tvg-country="tr" tvg-language="tr" group-title="Türkiye",ÜÜ TV 1
-https://uskudarunv.mediatriple.net/uskudarunv/uskudar1/playlist.m3u8
 #EXTINF:-1 tvg-id="ÜÜTVÜsküdarÜniversitesiTV" tvg-name="ÜÜ TV Üsküdar Üniversitesi TV" tvg-country="tr" tvg-language="tr" group-title="Türkiye",ÜÜ TV Üsküdar Üniversitesi TV
 https://uskudarunv.mediatriple.net/uskudarunv/uskudar2/playlist.m3u8
-#EXTINF:-1 tvg-id="VuslatTV" tvg-name="Vuslat TV" tvg-country="tr" tvg-language="tr" group-title="Türkiye",Vuslat TV
-https://live.artidijitalmedya.com/artidijital_vuslattv/vuslattv/playlist.m3u8
 #EXTINF:-1 tvg-id="WomanTV" tvg-name="Woman TV" tvg-country="tr" tvg-language="tr" group-title="Türkiye",Woman TV
 https://embedlp.becdn.net/womantv.m3u8
 #EXTINF:-1 tvg-id="YildizTVEn" tvg-name="Yildiz TV En" tvg-country="tr" tvg-language="tr" group-title="Türkiye",Yildiz TV En
 https://cdn-yildiz.yayin.com.tr/yildiz/yildiz/playlist.m3u8
-#EXTINF:-1 tvg-id="ZarokTV" tvg-name="Zarok TV" tvg-country="tr" tvg-language="tr" group-title="Türkiye",Zarok TV
-https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
 #EXTINF:-1 tvg-id="2M" tvg-name="2M" tvg-country="ma" tvg-language="ma" group-title="Marokko",2M
 https://d3g87jnubafe6a.cloudfront.net/out/v1/1fa0fb3c8dec402994a6f7a7f6492b82/index.m3u8
 #EXTINF:-1 tvg-id="AlAoulaInternational" tvg-name="Al Aoula International" tvg-country="ma" tvg-language="ma" group-title="Marokko",Al Aoula International
