@@ -8,10 +8,10 @@ import requests
 
 channels = [
     {
-        "name": "BBC News",
-        "url": "http://example.com/stream/bbc.m3u8",
-        "group": "News",
-        "tvg_id": "bbc"
+        "name": "TRT 1",
+        "url": "tv-trt1.medya.trt.com.tr/master.m3u8",
+        "group": "Haber",
+        "tvg_id": "TRT 1"
     },
     {
         "name": "CNN",
