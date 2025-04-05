@@ -1,0 +1,22 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="TRT1" tvg-name="TRT 1" group-title="TRT", TRT 1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TRT2" tvg-name="TRT 2" group-title="TRT", TRT 2
+https://tv-trt2.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TRTBelgesel" tvg-name="TRT Belgesel" group-title="TRT", TRT Belgesel
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TRTWorld" tvg-name="TRT World" group-title="TRT", TRT World (English)
+https://trtworld-live.akamaized.net/hls/live/2034470/trtworld/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TRTEba" tvg-name="TRT EBA TV İlkokul" group-title="EBA", TRT EBA İlkokul
+https://tv-trtebailkokul.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TRTEba" tvg-name="TRT EBA TV Ortaokul" group-title="EBA", TRT EBA Ortaokul
+https://tv-trtebaortaokul.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TRTEba" tvg-name="TRT EBA TV Lise" group-title="EBA", TRT EBA Lise
+https://tv-trtebalise.medya.trt.com.tr/master.m3u8
